@@ -1,0 +1,16 @@
+config.py
+venv/
+env/
+.venv/
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+dist/
+build/
+*.egg-info/
+*.log
+*.sqlite3
+*.db
+pip-wheel-metadata/
+__pycache__/
