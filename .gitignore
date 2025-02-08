@@ -14,3 +14,4 @@ build/
 *.db
 pip-wheel-metadata/
 __pycache__/
+data/*
